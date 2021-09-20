@@ -19,12 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 # Metadata
-title: BuildingAtom Base Site
+title: 42aruaour
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The base theme used for BuildingAtom.io
+  A Life of Random Crap
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "42aruaour.moe" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
 
 # Core
@@ -60,14 +60,16 @@ show-description: false
 copyright:
   symbol: true
   text: >- # supports markdown
-    2021 Adam Li / @BuildingAtom
+    2021 @42aruaour
 # Icons are automatically pulled from simpleicons.org. Use the
 # slug name as the tag and pay attention to brand guidelines.
 social-pre: 
-social-post: Socials
+social-post: SNS
 socials:
-  twitter: https://www.twitter.com/BuildingAtom
-  github:  https://github.com/BuildingAtom
+  twitter: https://www.twitter.com/42aruaour
+  github:  https://github.com/42aruaour
+  myanimelist: https://myanimelist.net/profile/42aruaour
+  anilist: https://anilist.co/user/42aruaour/
 #  dribbble:
 #  facebook:
 #  flickr:
@@ -77,12 +79,10 @@ socials:
 #  youtube:
 #  twitch:
 #  steam:
-#  myanimelist:
-#  anilist:
 related-sites:
 #  prefix-text: 
   sites:
-    - name: sister site
+    - name: sibling site
       href: https://buildingatom.io/
 
 # Extras
@@ -94,7 +94,7 @@ highlighter: rouge
 disqus:
   # Leave shortname blank to disable comments site-wide.
   # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-  #shortname: my_disqus_shortname
+  shortname: 42aruaour
 
 # Exclude from processing.
 # The following items will not be processed, by default.
